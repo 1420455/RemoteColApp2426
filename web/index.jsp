@@ -8,10 +8,11 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
+
     <title>RemoteColApp</title>
   </head>
   <body>
-    <h1>Remote Col App</h1>
-    <p>Version 1</p>
+    <h1> Remote Col App </h1>
+    <p> Version 1 </p>
   </body>
 </html>
